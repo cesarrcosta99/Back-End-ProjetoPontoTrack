@@ -19,14 +19,14 @@ Tecnologias Utilizadas
 - Comunicação em Tempo Real via WebSockets
 
 ## Como Executar o Projeto
-1) 
-- Clone o Repositório:
+1) Clone o Repositório:
 - git clone
 - cd Repositorio back-end
   2) Instale as Dependências:
-  Instale as Dependências:npm install
+     - npm install
 3) Configure as Variáveis de Ambiente:
   - Crie um arquivo .env na raiz do projeto e configure as variáveis de ambiente
-4) Inicie o Servidor:npm start
+4) Inicie o Servidor:
+     - npm start
 5) Acesse a API:http://localhost:3001
   
