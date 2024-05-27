@@ -4,7 +4,9 @@ import cors from 'cors'
 import './database'
 
 const corsOptions = {
-	origin: 'https://pontotrack-interface.vercel.app/',
+	origin: 'https://pontotrack-interface.vercel.app',
+	methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+	allowedHeaders: ['Content-Type', 'Authorization'],
 	optionsSuccessStatus: 200,
   };
 
