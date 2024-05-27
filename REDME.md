@@ -22,8 +22,8 @@ Tecnologias Utilizadas
 1) Clone o Repositório:
 - git clone
 - cd Repositorio back-end
-  2) Instale as Dependências:
-     - npm install
+2) Instale as Dependências:
+   - npm install
 3) Configure as Variáveis de Ambiente:
   - Crie um arquivo .env na raiz do projeto e configure as variáveis de ambiente
 4) Inicie o Servidor:
